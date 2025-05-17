@@ -1,8 +1,7 @@
-## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=50&center=true&vCenter=true&pause=1000&duration=4000&&width=1200&height=120&lines=Hey+there+👋+!+;+My+name+is+Miyeen+Katanda.)](https://git.io/typing-svg)
 
 
-[![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=miyeenkatanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -15,7 +14,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-nyasha-kanyepi/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kanyepironald@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miyeen-katanda-45652a1b6/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:miyeenkatanda@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect.)
 
 ## 💻 Tech Stack
   <details open>
@@ -115,8 +114,8 @@ Feel free to explore my work and reach out if you're interested in collaborating
 
 ## 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldkanyepi&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldkanyepi&layout=donut&theme=radical&hide=blade,php" alt="Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miyeenkatanda&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyeenkatanda&layout=donut&theme=radical&hide=blade,php" alt="Stats" style="height: 200px;" />
 </p>
 
 
