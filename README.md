@@ -1,14 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=50&center=true&vCenter=true&pause=1000&duration=4000&&width=1200&height=120&lines=Hey+there+👋+!+;+My+name+is+Miyeen+Katanda.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&center=true&vCenter=true&pause=1000&duration=4000&width=1200&height=120&lines=Hey+there+👋+!+;+My+name+is+Miyeen+Katanda.&color=FFB6C1)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=miyeenkatanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 ## 💫 About Me:
-I’m a data enthusiast and a student passionate about exploring the world of data science, data engineering, and prescriptive analytics. I thrive on solving real-world problems by turning raw data into actionable insights.
 
-I thrive on learning and continuously exploring new tools, techniques, and frameworks to stay at the forefront of the data field. Whether it’s designing robust ETL pipelines, building predictive models, or optimizing decision-making with prescriptive analytics, I’m driven by the challenge of delivering data-driven solutions.
+As a dedicated data enthusiast and student, my passion lies in unraveling complex real-world problems through data. I specialize in data science, data engineering, and prescriptive analytics, constantly refining my skills in designing efficient ETL pipelines, developing accurate predictive models, and crafting strategies for optimized decision-making. What truly drives me is the continuous pursuit of knowledge, always exploring new tools and frameworks to remain at the forefront of this dynamic field.
 
 Feel free to explore my work and reach out if you're interested in collaborating or discussing exciting data-driven projects!
 
