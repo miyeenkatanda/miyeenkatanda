@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&center=true&vCenter=true&pause=1000&duration=4000&width=1200&height=120&lines=Hey+there+👋+!+;+My+name+is+Miyeen+Katanda.&color=FF69B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&center=true&vCenter=true&pause=1000&duration=4000&width=1200&height=120&lines=Hey+there+👋+!+;+My+name+is+Miyeen+Katanda.&color=FFC0CB)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=miyeenkatanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
